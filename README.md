@@ -22,3 +22,17 @@ To use the installation script, run the following command as root. The script wi
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/luigimsn08/astro-installer/main/installer.sh)
+
+## Supported Operating Systems
+
+| Operating System | Version | Supported |
+|------------------|---------|-----------|
+| **Ubuntu**       | 18.04   | ✅         |
+|                  | 20.04   | ✅         |
+|                  | 22.04   | ✅         |
+| **Debian**       | 10      | ✅         |
+|                  | 11      | ✅         |
+| **Rocky Linux**  | 8       | ✅         |
+|                  | 9       | ✅         |
+| **AlmaLinux**    | 8       | ✅         |
+|                  | 9       | ✅         |
