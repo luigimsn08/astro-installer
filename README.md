@@ -20,9 +20,6 @@ Scripts for setting up a FiveM server with txAdmin and necessary components such
 
 To use the installation script, run the following command as root. The script will guide you through the process of installing the FiveM server, Apache2, and phpMyAdmin.
 
-```bash
-bash <(curl -s https://raw.githubusercontent.com/luigimsn08/astro-installer/main/installer.sh)
-
 ## Supported Operating Systems
 
 | Operating System | Version | Supported |
@@ -36,3 +33,6 @@ bash <(curl -s https://raw.githubusercontent.com/luigimsn08/astro-installer/main
 |                  | 9       | ✅         |
 | **AlmaLinux**    | 8       | ✅         |
 |                  | 9       | ✅         |
+
+```bash
+bash <(curl -s https://raw.githubusercontent.com/luigimsn08/astro-installer/main/installer.sh)
