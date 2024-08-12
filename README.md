@@ -10,11 +10,6 @@ Scripts for setting up a FiveM server with txAdmin and necessary components such
   - FiveM Server with txAdmin
   - Apache2 and phpMyAdmin for managing databases
   - MariaDB setup with a secure user and database for FiveM
-- **Optional Configuration**:
-  - Automatic configuration of Let's Encrypt for SSL
-  - Automatic configuration of the firewall
-- **Uninstallation**:
-  - Support for removing both Apache2/phpMyAdmin and the FiveM server
 
 ## Usage
 
